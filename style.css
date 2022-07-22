@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.one, .two, .three{
+    text-align: center;
+}
+
+.three, .two{
+    margin-top: 50px;
+}
+
+body{
+    background-color: rgb(120, 230, 230);
+}
+button{
+    font-size: 15px;
+}
+textarea{
+    border: 2px solid rgb(236, 202, 225);
+    border-radius: 20px;
+}
